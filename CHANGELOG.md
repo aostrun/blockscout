@@ -4,6 +4,7 @@
 
 ### Features
 
+- [#9132](https://github.com/blockscout/blockscout/pull/9132) - Fetch token image from CoinGecko
 - [#9072](https://github.com/blockscout/blockscout/pull/9072) - Add tracing by block logic for geth
 - [#9056](https://github.com/blockscout/blockscout/pull/9056) - Noves.fi API proxy
 
