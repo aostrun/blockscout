@@ -4,6 +4,7 @@
 
 ### Features
 
+- [#9148](https://github.com/blockscout/blockscout/pull/9148) - Add `/api/v2/utils/decode-calldata`
 - [#9072](https://github.com/blockscout/blockscout/pull/9072) - Add tracing by block logic for geth
 - [#9056](https://github.com/blockscout/blockscout/pull/9056) - Noves.fi API proxy
 
